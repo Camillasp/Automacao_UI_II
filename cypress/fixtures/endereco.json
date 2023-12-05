@@ -1,0 +1,43 @@
+[
+    {
+        "nome": "Julia",
+        "sobrenome": "Mendes",
+        "empresa": "Emporio da Vila",
+        "endereco": "Rua Humberto Rosa", 
+        "numero": "939",
+        "pais": "Brasil",
+        "cidade": "São Paulo",
+        "estado": "São Paulo",
+        "cep": "03665-000",
+        "telefone": "11900880077",
+        "email": "juliamendes@teste.com"
+    },
+
+    {
+        "nome": "Carla",
+        "sobrenome": "Fonseca",
+        "empresa": "Motorola",
+        "endereco": "Rua Claudio Guimarães ", 
+        "numero": "22",
+        "pais": "Brasil",
+        "cidade": "São Paulo",
+        "estado": "São Paulo",
+        "cep": "0500-000",
+        "telefone": "1197006655",
+        "email": "carlafonseca@teste.com"
+    },
+
+    {
+        "nome": "Priscila",
+        "sobrenome": "Contijo",
+        "empresa": "Google",
+        "endereco": "Rua Prudêncio da Silva", 
+        "numero": "488",
+        "pais": "Brasil",
+        "cidade": "São Paulo",
+        "estado": "São Paulo",
+        "cep": "0123-000",
+        "telefone": "11955770102",
+        "email": "priscilacontijo@teste.com"
+    }
+]
